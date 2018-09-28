@@ -1,9 +1,9 @@
-#Docker Scheduler V1.0 BETA
+# Docker Scheduler V1.0 BETA
 
-Concept: \
+## Concept: 
 Build an API and CLI that interfaces with Docker to assist in scheduling helper tasks in a cron like way.
 
-Current Status : 
+### Current Status 
 
 Using python and the docker python library I have started a building out the API and CLI for this project. 
 
