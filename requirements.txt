@@ -5,7 +5,7 @@ BeautifulSoup==3.2.1
 certifi==2018.4.16
 chardet==3.0.4
 decorator==4.1.2
-Django==1.11.15
+Django==2.2.24
 docker==3.5.0
 docker-pycreds==0.3.0
 enum34==1.1.6
